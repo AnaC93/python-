@@ -1,0 +1,5 @@
+a1 = input('Enter the item: ')
+b1 = input('Enter the price: ')
+c1 = input('Enter the quantity: ')
+my_dict = dict(item=[a1], price=[b1], quantity=[c1])
+print(my_dict)
